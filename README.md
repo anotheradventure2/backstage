@@ -6,5 +6,5 @@ To start the app, run:
 
 ```sh
 yarn install
-yarn dev
+NODE_OPTIONS=--no-node-snapshot yarn dev
 ```
